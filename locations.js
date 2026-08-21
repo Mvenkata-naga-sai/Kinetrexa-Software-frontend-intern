@@ -1,0 +1,3 @@
+export const indianLocations=[
+ 'Agra','Ahmedabad','Amritsar','Bengaluru','Bhopal','Bhubaneswar','Chandigarh','Chennai','Coimbatore','Dehradun','Delhi','Guwahati','Gwalior','Hyderabad','Indore','Jaipur','Jaisalmer','Jammu','Jodhpur','Kanpur','Kochi','Kolkata','Lucknow','Ludhiana','Madurai','Mangaluru','Meerut','Mumbai','Mysuru','Nagpur','Nashik','Noida','Patna','Prayagraj','Pune','Raipur','Rajkot','Ranchi','Rishikesh','Srinagar','Surat','Thane','Thiruvananthapuram','Tirupati','Udaipur','Vadodara','Varanasi','Vijayawada','Visakhapatnam','Warangal'
+];
